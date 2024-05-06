@@ -1,0 +1,137 @@
+
+body{
+    background-image: url(image/[pl.jpg);
+    background-size: cover;
+ 
+    
+}.action{
+    height: 500px;
+    justify-content: space-between;
+    display: flex;
+    align-items: center;
+
+}.action ul{
+    list-style: none;
+}.action ul li{
+    margin: 4px;
+    display: inline;
+}.action ul li a{
+    color: aliceblue;
+    text-decoration: none;
+    
+}.action ul li a:hover{
+    background-color: rgb(238, 176, 176);
+    color: red;
+    background-color: rgb(136, 129, 129);
+    padding: 2px;
+    border-radius: 6px;
+}.action h1 span{
+    color: red;
+}.action h1{
+    color: aliceblue;
+    margin-left: 18px;
+}.action1{
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}.action1  h6{
+    color: aliceblue;
+}.action1 span{
+    color: red;
+}.action1 p{
+    color: aliceblue;
+    
+}
+.action2{
+    height: 400px;
+    display:flex
+}.content{
+    color: aliceblue;
+    margin: 0px;
+    padding: 0px;
+    margin-left: 60px;
+    font-size: 10px;
+
+}.trick img{
+    height: 400px;
+    width: 300px;
+    border-radius: 40px;
+}.content h2 span{
+    color: red;
+}.action3{
+    
+    color:white;
+    display: flex;
+    
+}.ll{
+    background-color: black;
+    border-radius: 10px;
+    padding: 20px;
+    margin: 10px;
+}.vv{
+    background-color: rgb(119, 48, 62);
+    padding: 20px;
+    margin: 10px;
+    margin-left: 20px;
+    border-radius: 10px;
+}.kk{
+    background-color: rgb(237, 108, 108);
+    padding: 20px;
+    margin: 10px;
+    border-radius: 10px;
+    margin-left: 20px;
+}.action3 p span{
+    color: chartreuse;
+   
+}.conte{
+    color: aliceblue;
+    font-size: 12px;
+    margin-left: 40px;
+}.conect{
+    color: brown;
+    margin-left: 40px;
+}.action4{
+    height: 400px;
+    display: flex;
+}.act1 img{
+    width: 400px;
+    height:200px;
+    border-radius: 20px;
+}.act2 img{
+    width: 400px;
+    height:200px;
+    border-radius: 20px;
+    margin-left: 20px;
+
+}.act3 img{
+    width: 400px;
+    height:200px;
+    border-radius: 20px;
+    margin-left: 20px;
+}.action4{
+    height: 200px;
+    display: flex;
+}.act1{
+    height: 200px;
+    width: 500px;
+}.ac23{
+    height: 200px;
+    width: 500px
+
+}.act3{
+    height: 200px;
+    width: 500px
+}
+.copy {
+    height:20px;
+    color: rgb(239, 226, 222);
+    display: flex;
+    justify-content: center;
+    
+}
+.copy h4:hover{
+    color: red;
+    background-color: rgb(138, 130, 130);
+}
+.info{
+    color: rgb(230, 25, 25);
+}
